@@ -1,4 +1,4 @@
-// Run 'nodemon' in the command line for auto outputs on each save. Just type nodemon in the command line interface.
+// Run 'nodemon' in the command line for auto outputs on each save.
 
 const fs = require("fs"); // file system is a core module that comes with node.js
 const http = require("http"); // another core module - used to setup web server

@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Custom files to be excluded
+laptop.html
+overview.html
